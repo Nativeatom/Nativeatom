@@ -11,7 +11,10 @@ Talk to me with anything you are interested about language! Including but not li
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nativeatom&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook" height="150" />
 </p>
 
+<!---
 ![snake animation](https://github.com/Nativeatom/Nativeatom/blob/output/github-contribution-grid-snake2.svg)
+-->
+
 
 
 
